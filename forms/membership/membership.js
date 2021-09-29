@@ -1,4 +1,4 @@
-
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 let name = " "
 
@@ -12,3 +12,4 @@ else {
   members.push(name)
   }
 }
+*/
